@@ -1,6 +1,5 @@
 console.log(!!"");
 console.log(!!"false");
-
 class Car {
     constructor(model, attributes){
         this.model = model;
