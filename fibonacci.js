@@ -13,4 +13,4 @@ function fib(n){
     }
 }
 
-fib(5)
+fib(6)
